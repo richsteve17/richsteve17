@@ -22,7 +22,7 @@ I build tools that solve real problems I actually have — not tutorial projects
 
 🎙️ **[HotSeat](https://github.com/richsteve17/HotSeat)** — AI-moderated debate app and interview simulator. Put yourself in the hot seat against an AI that doesn’t pull punches.
 
-📡 **[Mirror-Stream](https://github.com/richsteve17/Mirror-stream)** — Livestream mirroring and view suite for multi-platform broadcasting.
+🧠 **[Personality_Matrix](https://github.com/richsteve17/Personality_Matrix)** — Cross-system AI perception study. 7 AI systems rate themselves and each other to map sycophancy drift, blind spots, and projection patterns.
 
 -----
 
