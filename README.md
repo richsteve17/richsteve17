@@ -32,7 +32,7 @@ I build tools that solve real problems I actually have — not tutorial projects
 Aug 2025   →  First line of Python on a phone terminal
 Oct 2025   →  Shipping real tools, not tutorials
 Jan 2026   →  Deployed production apps, built iOS apps in Swift
-Mar 2026   →  22 public repos, building full-stack across JS/TS/Python/Swift
+Mar 2026   →  40 public repos, building full-stack across JS/TS/Python/Swift
 Apr 2026   →  You're reading this
 ```
 
