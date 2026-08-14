@@ -1,68 +1,88 @@
 # Hey — I’m Steve Coleman
 
-**Self-taught developer. Started writing code in August 2025. Haven’t stopped building since.**
+**Self-taught full-stack developer & adversarial AI researcher. Started writing code in August 2025 on a phone terminal. Haven’t stopped shipping since.**
 
-Before that: 18 years in Philadelphia independent wrestling, half of underground hip-hop duo CMASS, and a live streaming agency founder running talent across Latin America. I picked up Python on a phone terminal and haven’t looked back.
+Before code: 18 years in Philadelphia independent professional wrestling, half of underground hip-hop duo CMASS, and a live-streaming agency founder running talent across Latin America.
 
-I don’t have a CS degree. I have a problem-solving addiction and zero patience for “that can’t be done.”
+I don’t have a CS degree. I have a problem-solving addiction, an adversarial mindset, and zero patience for “that can’t be done.”
 
------
+---
 
-### What I Build
+<div align="center">
+  <a href="https://github.com/sponsors/richsteve17">
+    <img src="https://img.shields.io/badge/Sponsor_My_Work-richsteve17-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor richsteve17" />
+  </a>
+</div>
 
-I build tools that solve real problems I actually have — not tutorial projects, not TODO apps.
+---
 
-⚽ **[geminiFM](https://github.com/richsteve17/geminiFM)** — AI-powered football manager simulation. Build your squad, run tactics, manage seasons. Built because FIFA Career Mode isn’t enough.
+### 🚀 What I Build
 
-🌐 **[Translator](https://github.com/richsteve17/translator)** — Full WebRTC video calling platform with real-time translation across 18 language locales (including 8 regional Spanish variants). Built it because I needed to video call someone in Venezuela and nothing else worked right.
+I don’t build tutorial clones or TODO apps. I build high-leverage tools for real-world friction at the intersection of **adversarial AI research, real-time WebRTC/audio engines, mobile sovereignty, and complex simulation systems**.
 
-🔒 **[AnarchyGem](https://github.com/richsteve17/AnarchyGem)** — Mobile-first digital sovereignty toolkit. Mesh networking, local encryption, off-grid communication tools. Built at the lowest common denominator so anyone with a phone terminal can run it.
+#### 🧠 Adversarial AI & Frontier Model Security
+*I break AI systems to understand their failure modes, then build tools to map their latent boundaries.*
 
-🎧 **[DjTrainer](https://github.com/richsteve17/DjTrainer)** — DJ training app with waveform visualization and BPM coaching. Learning to mix while building the tool to teach myself.
+- 🪞 **[Inversion Matrix v10](https://github.com/richsteve17/inversion-matrix)** — Multi-model adversarial research & refusal forensics workbench. Live-fire testing across OpenRouter models, sub-word token boundary obfuscation (Homoglyphs, LeetSpeak, ROT13), and automated diagnostics for Speculative Sampling Divergence (SSD) and Stage-1/Stage-2 classifiers.
+- 🧠 **[Personality Matrix](https://github.com/richsteve17/Personality_Matrix)** — Cross-system AI perception study where 7 frontier models rate themselves and each other to map sycophancy drift, blind spots, and projection patterns.
+- 🧩 **[Copacetic](https://github.com/richsteve17/Copacetic)** — Interactive working-style simulator that measures how humans actually interact with AI and generates custom instruction profiles to optimize model output.
+- 🛡️ *Author of a verified **Google P2 Bug Bounty** submission identifying a Gemini chain-of-thought safety wrapper leak through adversarial prompt decomposition.*
 
-🎙️ **[HotSeat](https://github.com/richsteve17/HotSeat)** — AI-moderated debate app and interview simulator. Put yourself in the hot seat against an AI that doesn’t pull punches.
+#### 🌐 Real-Time Audio, Voice & Media Engines
+*Low-latency communication and audio DSP tools built for production.*
 
-🧠 **[Personality_Matrix](https://github.com/richsteve17/Personality_Matrix)** — Cross-system AI perception study. 7 AI systems rate themselves and each other to map sycophancy drift, blind spots, and projection patterns.
+- 🌐 **[Live Translator](https://github.com/richsteve17/translator)** — WebRTC video calling platform with sub-second real-time speech translation across 18 language locales (including 8 regional Spanish variants). *Built because I needed to video call someone in Venezuela and existing tools failed on regional slang.*
+- 🎙️ **[HotSeat](https://github.com/richsteve17/HotSeat)** — Real-time voice debate app and media training simulator powered by the Gemini Live API with dynamic adversarial pushback.
+- 🎧 **[DjTrainer](https://github.com/richsteve17/DjTrainer)** — Web Audio DJ training station with real-time waveform rendering, BPM autocorrelation, Spotify integration, and transition coaching.
+- 🗜️ **[VideoPress / Legacy Compressor](https://github.com/richsteve17/Legacy-Compressor)** — Mobile-first native video compressor monorepo (Expo + Express 5 + Drizzle) with mathematical bitrate target calculations (5MB, 10MB, 25MB).
 
------
+#### ⚽ Autonomous Simulations & Game Engines
+*Deep simulation mechanics powered by deterministic physics and LLM drama engines.*
 
-### The Trajectory
+- ⚽ **[geminiFM](https://github.com/richsteve17/geminiFM)** — Next-generation football manager simulation powered by Gemini AI as a real-time "Drama Engine" (boardroom negotiations, locker room chemistry rifts, and press conferences).
+- 📋 **[Tactic-Manager](https://github.com/richsteve17/Tactic-Manager)** — Deterministic, tick-based tactical match engine with spatial shape occupation, Gegenpress triggers, and live xG generation.
+- 🎮 **[Soccer Sim Pro](https://github.com/richsteve17/Soccer-Sim-Pro)** — Mobile-first soccer simulator with custom pitch graphics and true simultaneous multi-touch player controls.
+
+#### 🔒 Digital Sovereignty & Offline-First
+- 🔒 **[AnarchyGem](https://github.com/richsteve17/AnarchyGem)** — Mobile-first digital sovereignty toolkit for Python development. Mesh networking, local encryption, and off-grid communication built to run even on low-spec phone terminals.
+
+---
+
+### 📈 The Trajectory
 
 ```
-Aug 2025   →  First line of Python on a phone terminal
-Oct 2025   →  Shipping real tools, not tutorials
-Jan 2026   →  Deployed production apps, built iOS apps in Swift
-Mar 2026   →  40 public repos, building full-stack across JS/TS/Python/Swift
-Apr 2026   →  Github sponsorship page launches
-Aug 2026   →  45 total repos and growing!
+Aug 2025   →  First line of Python written on an Android phone terminal
+Oct 2025   →  Shipping full-stack tools, WebRTC apps & audio DSP engines
+Jan 2026   →  Building production iOS apps (React Native / Swift) & custom APIs
+Mar 2026   →  40+ repos across TypeScript, Python, Web Audio, Drizzle, Docker
+Apr 2026   →  Submitted verified P2 Bug Bounty to Google (Gemini CoT leak)
+Aug 2026   →  Full open-source suite of AI research, simulation, and media tools
 ```
 
-I went from zero to deploying production apps in under six months. Not because I’m a genius — because I needed the tools to exist and nobody else was going to build them.
+---
 
------
+### 💖 Why Sponsor Me
 
-### Why Sponsor Me
+I’m building weird, specific, high-utility software that doesn't fit into generic templates. I test the edge cases of frontier models, build tools for underserved language communities, and publish everything open-source.
 
-I’m not mass-producing npm packages. I’m building weird, specific, actually-useful tools from the intersection of live streaming, music, language barriers, digital privacy, and AI. Every project comes from a real need.
+**Your sponsorship directly funds:**
+- **Inference & Hosting Infrastructure** — Keeping WebRTC servers, Gemini/OpenRouter API costs, Railway, and Render instances online.
+- **Hardware & Testing Devices** — Expanding testing beyond phone terminals to multi-device mobile and local hardware testing.
+- **Full-Time Engineering Time** — Every dollar translates directly into hours shipping open-source code rather than doing gig work.
 
-Your sponsorship funds:
+---
 
-- **Compute & deployment** — Railway, Render, API costs for keeping projects live
-- **Hardware** — still building half of this on a phone
-- **Time** — every dollar lets me spend less time on gig work and more time shipping code
+### 🔗 Connect & Elsewhere
 
-I also submitted a **P2 bug bounty to Google** for a Gemini chain-of-thought safety wrapper leak I found through adversarial AI research. I break things and build things. Sometimes both at once.
+- 💖 **[GitHub Sponsors](https://github.com/sponsors/richsteve17)** — Support my open-source work directly
+- 🐦 **[Twitter / X (@therichsteve)](https://twitter.com/therichsteve)**
+- 🎤 **[Spotify](https://open.spotify.com/user/1289799676?si=Y61jq7qvSeGew3bF7eQkmw)** — CMASS catalog
+- 🎓 **Penn State** — American Studies, Peace & Conflict Studies, Theater
 
------
+---
 
-### Elsewhere
-
-- 🎤 [Spotify](https://open.spotify.com/user/1289799676?si=Y61jq7qvSeGew3bF7eQkmw)
-- 🐦 [@therichsteve](https://twitter.com/therichsteve)
-- 🎓 Penn State — American Studies, Peace & Conflict Studies, Theater
-
------
-
-<a href="https://github.com/sponsors/richsteve17">
-  <img src="https://img.shields.io/badge/Sponsor-richsteve17-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor richsteve17" />
-</a>
+<div align="center">
+  <a href="https://github.com/sponsors/richsteve17">
+    <img src="https://img.shields.io/badge/Sponsor-richsteve17-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor richsteve17" />
+  </a>
+</div>
