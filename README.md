@@ -51,7 +51,7 @@ I don’t build tutorial clones or TODO apps. I build high-leverage tools for re
 ### 📈 The Trajectory
 
 ```
-Aug 2025   →  First line of Python written on an Android phone terminal
+Aug 2025   →  First line of Python written on an ssh'd mac terminal on iPhone
 Oct 2025   →  Shipping full-stack tools, WebRTC apps & audio DSP engines
 Jan 2026   →  Building production iOS apps (React Native / Swift) & custom APIs
 Mar 2026   →  40+ repos across TypeScript, Python, Web Audio, Drizzle, Docker
